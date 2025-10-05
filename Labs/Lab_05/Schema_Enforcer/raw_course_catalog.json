@@ -1,0 +1,122 @@
+[
+  {
+    "course_id": "DS2002",
+    "section": "001",
+    "title": "Data Science Systems",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Austin Rivera",
+        "role": "Primary"
+      },
+      {
+        "name": "Heywood Williams-Tracy",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "BME2220",
+    "section": "001",
+    "title": "Biomechanics",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Dr. Natasha D. Sheybani",
+        "role": "Primary"
+      },
+      {
+        "name": "Amanda Knizley",
+        "role": "Graduate TA"
+      },
+      {
+        "name": "Owen Brown",
+        "role": "Undergraduate TA"
+      },
+      {
+        "name": "Andrew Wittman",
+        "role": "Undergraduate TA"
+      },
+      {
+        "name": "Niharika Chandna",
+        "role": "Undergraduate TA"
+      }
+    ]
+  },
+  {
+    "course_id": "BME2000",
+    "section": "001",
+    "title": "Biomedical Engineering Design and Discovery",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Dr. William H. Guildford",
+        "role": "Primary"
+      },
+      {
+        "name": "Bethany Amanuel",
+        "role": "TA"
+      },
+      {
+        "name": "Sabrina Berry",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "BME2000",
+    "section": "001",
+    "title": "Biomedical Engineering Design and Discovery",
+    "level": 200,
+    "instructors": [
+      {
+        "name": "Dr. William H. Guildford",
+        "role": "Primary"
+      },
+      {
+        "name": "Bethany Amanuel",
+        "role": "TA"
+      },
+      {
+        "name": "Sabrina Berry",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "PHYS1655",
+    "section": "001",
+    "title": "Python for Scientists",
+    "level": 100,
+    "instructors": [
+      {
+        "name": "Prof. Craig Croup",
+        "role": "Primary"
+      },
+      {
+        "name": "Vincent Blackburn",
+        "role": "TA"
+      },
+      {
+        "name": "Alex Flamm",
+        "role": "TA"
+      },
+      {
+        "name": "Jackson Glass",
+        "role": "TA"
+      }
+    ]
+  },
+  {
+    "course_id": "BIOL4900",
+    "section": "001",
+    "title": "Independent Study in Biology",
+    "level": 400,
+    "instructors": [
+      {
+        "name": "Dr. Keith G. Kozminski",
+        "role": "Primary"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+student_id,major,GPA,is_cs_major,credits_taken
+1001,Computer Science,3.0,Yes,15.0
+1002,Biology,3.5,No,15.5
+1003,Mathematics,4,No,17.0
+1004,Spanish,2.8,No,16.0
+1005,Economics,3,No,14.0
+1006,Biomedical Engineering,4,No,18.0
